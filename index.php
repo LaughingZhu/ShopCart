@@ -267,6 +267,8 @@
     <script src="js/jquery.luara.0.0.1.min.js"></script>
     <div class="container">
 
+     
+
       <nav  class="navbar navbar-default navbar-fixed-top" role="navigation">
    <div class="navbar-header">
       <a class="navbar-brand" href="#"><h3 style="position: relative;width:100px; left :0px; top:-30px;"><img src="./images/logo.gif" alt="" width="95" height="42"></h3></a>
