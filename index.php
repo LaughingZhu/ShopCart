@@ -267,43 +267,7 @@
     <script src="js/jquery.luara.0.0.1.min.js"></script>
     <div class="container">
 
-     <!--  <div id="top">
-           
-            <ul>
-              <li><a href="#">商城首页</a></li>
-              
-
-              
-              <?php 
-          if ($_SESSION['username']!=null) {  
-          echo "<li><a href='shopCart.php'>我的购物车 </a></li>";
-          echo "<li><a href=''> <img src='./images/shangjia.png' width='16' height='16'> </a></li>  ";
-          echo '<li>'.$_SESSION['username'].'</li>';
-          echo "<li><a href='login.php?action=logout'>注销</a></li>";
-          
-        }
-          else {
-
-            echo "<li><a href='login.html'>登录 </a></li>";
-            echo "<li><a href='SignUp.html'>注册</a></li>";
-
-        }
-         ?>
-            </ul>
-
-        
-        
-        
-            <form id="tijiao1" action="search_result.php" method="get">
-              <select class="choose" name="">
-                <option value="宝贝" selected="selected">宝贝</option>
-                <option value="店铺">店铺</option>
-              </select>
-              <input type="text" name="search2" value="" class="search" id="search2">
-              <button type="sublimt" class="btn btn-primary" style="position:absolute; top:80px;left:730px;" >搜索</button>
-            </form>
-
-      </div> -->
+     
 
       <nav  class="navbar navbar-default navbar-fixed-top" role="navigation">
    <div class="navbar-header">
